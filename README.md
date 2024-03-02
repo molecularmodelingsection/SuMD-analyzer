@@ -4,7 +4,7 @@ Analysis script for Supervised Molecular Dynamics (SuMD) trajectories
 
 Reference publication:  
 **"Investigating RNA-Protein Recognition Mechanisms through Supervised Molecular Dynamics (SuMD) Simulations."**  
-Pavan M., Bassani D., Sturlese M., Moro S. (under peer review at *NAR Genomics and Bioinformatics*)
+Pavan M., Bassani D., Sturlese M., Moro S. *NAR Genomics and Bioinformatics* https://doi.org/10.1093/nargab/lqac088  
 
 SuMD-analyzer is a Python code that can be utilized to analyze Supervised Molecular Dynamics (SuMD) trajectories and is an evolution of the original tool by V. Salmaso, described in Salmaso, V.; Sturlese, M.; Cuzzolin, A.; Moro, S. **Exploring Protein-Peptide Recognition Pathways Using a Supervised Molecular Dynamics Approach.** Structure. 2017, 25,655–662.e2. Although the script has been originally developed to analyze trajectories involving RNA-protein complexes, it can be easily repurposed for the scope of analyzing trajectories containing peptide/small molecule ligands with small tweaks to the codebase. Generally speaking, we are actively working on making this script usable to analyze whatever trajectory involves the recognition between a receptor and a ligand, regardless of its origin.  
 
